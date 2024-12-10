@@ -42,6 +42,7 @@ print(a)
 <br>
 <br>
 <br>
+
 ![image](https://github.com/user-attachments/assets/438d4493-5a75-4399-85fe-665f86c49c6c)
 
 
@@ -49,6 +50,7 @@ print(a)
 <br>
 <br>
 <br>
+
 ![image](https://github.com/user-attachments/assets/2fc780c0-f805-4941-86fb-e939b4b28ab4)
 
 
@@ -56,6 +58,7 @@ print(a)
 <br>
 <br>
 <br>
+
 ![image](https://github.com/user-attachments/assets/e300dd25-df5a-4980-8955-b5bfc41ced7d)
 
 
